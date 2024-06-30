@@ -1,2 +1,3 @@
 # multime
- Benchmark commands by executing them multiple times.
+
+Benchmark commands by executing them multiple times.
